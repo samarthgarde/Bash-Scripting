@@ -1,4 +1,6 @@
 #!/bin/bash
+# This is script of multiplication table with user input
+
 echo "Enter a number: "
 read num
 

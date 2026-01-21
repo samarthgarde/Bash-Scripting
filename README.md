@@ -80,20 +80,6 @@ Log monitoring loops
 
 ---
 
-### 🔹 Loops
-
-for loop
-
-while loop
-
-break statement
-
-File iteration
-
-Log monitoring loops
-
----
-
 ### 🔹 Arrays
 
 Indexed arrays

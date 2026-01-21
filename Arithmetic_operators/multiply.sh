@@ -1,0 +1,6 @@
+echo "Enter first number:"
+read num1
+echo "Enter second number:"
+read num2
+result=$((num1*num2))
+echo "multiply $num2 from $num1 will be give $result"

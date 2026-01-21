@@ -2,13 +2,14 @@
 
 echo "Home directory: $HOME"
 echo "Current user: $USER"
-echo "Current Shell: $SHELL"
+echo "Current shell: $SHELL"
 echo "Present working directory: $PWD"
 echo "Hostname: $HOSTNAME"
-echo "process ID of this script: $$"
+echo "Process ID of this script: $$"
 
-HOSTNAME=$(hostname)
-echo "the user currently using host is : $HOSTNAME"
-readonly DOB=05/06/2001
+current_host=$(hostname)
+echo "The user is currently using host: $current_host"
 
-echo "the current user DOB is : $DOB"
+readonly DOB="07/12/2003"
+echo "The current user DOB is: $DOB"
+

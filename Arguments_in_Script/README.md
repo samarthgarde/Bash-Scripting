@@ -47,12 +47,7 @@ Each shift removes the first argument and moves the next argument to $1
 - Uses shift to process arguments sequentially
 
 ### ▶️ How to Run
-```
-chmod +x basic_arguments.sh arguments_shift.sh
-
-```
+```chmod +x basic_arguments.sh arguments_shift.sh```
 ### Run the scripts:
-```
-./basic_arguments.sh apple banana
-./arguments_shift.sh red blue green
-```
+```./basic_arguments.sh apple banana
+./arguments_shift.sh red blue green```
